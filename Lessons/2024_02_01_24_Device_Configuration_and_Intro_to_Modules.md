@@ -23,11 +23,11 @@ Thursday, February 1st 2024
 - [ ] I have successfully added, committed, and pushed my random lab to GitHub.
 
 **Introduction to Modules:**
-- [ ] I am able to describe what modules are and how they are used to organize programs.
-- [ ] I am able to import modules and their entities for use in my programs.
-- [ ] I am able to alias modules and their entities.
-- [ ] I am able to call on entities from modules that I have imported.
-- [ ] I am able to describe what a program's namespace is as well as how the concept of namespace relates to the importance of making strategic decisions about module imports.
+- [ ] I can describe what modules are and how they are used to organize programs.
+- [ ] I can import modules and their entities for use in my programs.
+- [ ] I can alias modules and their entities.
+- [ ] I can call on entities from modules that I have imported.
+- [ ] I can describe what a program's namespace is as well as how the concept of namespace relates to the importance of making strategic decisions about module imports.
 
 **DO NOW:** Create and share a new repo: 
 
