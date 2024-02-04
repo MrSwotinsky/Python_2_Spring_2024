@@ -203,7 +203,7 @@ git clone https://github.com/YourGitHubUserName/Computer_Science_Portfolio.git
 ```
 cd Computer_Science_Portfolio
 ```
-5. Create a sub-directory for Data Science 1 by entering the command below:
+5. Create a sub-directory for Python_2 by entering the command below:
 ```
 mkdir Python_2
 ```
@@ -236,7 +236,7 @@ idle
 2. Click <ins>File</ins>.
 3. Select <ins>New File</ins>.
 4. Save your file as, **LastNameFirstInitial_Lab01_Random.py**.
-5. Copy/Paste the code below to the first cell of your notebook:
+5. Copy/Paste the code below to your program:
 
 ```python
 # Random Number Generator Lab
