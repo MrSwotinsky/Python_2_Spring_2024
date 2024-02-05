@@ -239,7 +239,7 @@ idle
 5. Copy/Paste the code below to your program:
 
 ```python
-# Random Number Generator Lab
+# Lab01_Random.py
 ```
 
 6. <ins>Save</ins> your file.
@@ -259,10 +259,10 @@ cd AppData/Local/Programs/Python/Python312/Computer_Science_Portfolio/Python_2
 git add LastNameFirstInitial_Lab01_Random.py
 ```
 
-4. Commit your changes to `LastNameFirstInitial_Lab01_Random_Number_Generator.py` file (including the message: 'Uploaded v0 of random number generator lab.')by entering the command below :
+4. Commit your changes to `LastNameFirstInitial_Lab01_Random.py` file (including the message: 'Uploaded v0 of Lab01_Random.py.')by entering the command below :
 
 ```
-git commit LastNameFirstInitial_Lab01_Random.py -m 'Uploaded v0 of random number generator lab.'
+git commit LastNameFirstInitial_Lab01_Random.py -m 'Uploaded v0 of Lab01_Random.py.'
 ```
 
 5. Push your repo to GitHub by entering the command below :
