@@ -65,7 +65,8 @@ for i in range(random.randint(1,2))
 
 1. On paper, use code tracing strategies to determine the output of each of the following code snippets.
 2. Capture images of your code tracing work in a single pdf and save it in the Python_2 subdirectory of your Computer Science Portfolio on your virtual machine.
-3. Title your pdf: `LastNameFirstInitial_Code_Tracing_Exercises_Math_and_Random.pdf` 
+3. Title your pdf: `LastNameFirstInitial_Code_Tracing_Exercises_Math_and_Random.pdf`
+4. Commit and push your file to GitHub.  Remember to include an appropriate commit message.
 
 ```python
 #Exercise 1/ What is the expected result of executing the following code snippet?  If executing the code snippet will result in an error, explain why.
